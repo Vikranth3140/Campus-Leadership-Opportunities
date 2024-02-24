@@ -1,2 +1,41 @@
 # Campus-Leadership-Opportunities
-Campus-Leadership-Opportunities
+
+![](https://img.shields.io/badge/%20-Campus%20Ambassador%20Programmes-blueviolet.svg) + ![](https://img.shields.io/badge/%20-Student%20Chapters-blueviolet.svg)
+
+[![GitHub issues](https://img.shields.io/github/issues/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/network)
+[![GitHub stars](https://img.shields.io/github/stars/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/blob/master/LICENSE)
+
+## Campus Ambassador Programs:
+
+| Program                                      | Brief Description                                                                                                   | Application Process                                      | Website                                                             |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------|
+| Microsoft Student Ambassador                 | Represent Microsoft, organize events, promote products                                                            | Apply through [Microsoft website](https://studentambassadors.microsoft.com/)       | [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/)   |
+| LinkedIn Student Learning Ambassador        | Represent LinkedIn Learning, organize workshops                                                                    | Apply through LinkedIn Learning Ambassador portal         | [LinkedIn Student Learning Ambassador](<https://www.linkedin.com/learning/instructors/become-a-student-ambassador>) |
+| AWS Education                                | Learn AWS technologies, organize events, promote cloud                                                            | Apply through [AWS Education website](https://aws.amazon.com/education/)             | [AWS Education](https://aws.amazon.com/education/)                    |
+| Hack Club                                    | Foster coding communities, organize hackathons                                                                    | Join online through [Hack Club website](https://hackclub.com/)                      | [Hack Club](https://hackclub.com/)                                    |
+| Google Schools                               | Represent Google, organize events, promote products                                                               | Apply through [Google Schools program website](https://edu.google.com/schools-and-universities/) | [Google Schools](https://edu.google.com/schools-and-universities/)        |
+| Google Developer Group                      | Community building, organize events, promote Google tech                                                          | Join or start a group through [Google Developers website](https://developers.google.com/groups/) | [Google Developer Group](https://developers.google.com/groups/)          |
+| GitKraken Ambassadors                       | Represent GitKraken, promote tools, organize events                                                                | Apply through [GitKraken Ambassadors program website](https://www.gitkraken.com/ambassadors) | [GitKraken Ambassadors](https://www.gitkraken.com/ambassadors)          |
+| Facebook Developer Circles                  | Foster developer communities, organize workshops                                                                   | Join a Circle through [Facebook Developer website](https://developers.facebook.com/developercircles/) | [Facebook Developer Circles](https://developers.facebook.com/developercircles/) |
+| Google Developer Student Club               | Community building, promote Google tech to students                                                                | Apply to start a club through [Google Developers website](https://developers.google.com/community/dsc) | [Google Developer Student Club](https://developers.google.com/community/dsc) |
+| Auth0 Ambassador                            | Represent Auth0, promote IAM solutions, organize events                                                            | Apply through [Auth0 Ambassadors program website](https://auth0.com/ambassadors/)       | [Auth0 Ambassador](https://auth0.com/ambassadors/)                      |
+| MLH Coach                                   | Mentor hackathon participants, promote MLH events                                                                 | Apply to become a coach through [Major League Hacking website](https://coach.mlh.io/)        | [MLH Coach](https://coach.mlh.io/)                                       |
+| GitHub Campus Expert                       | Represent GitHub, organize workshops, foster Git education                                                        | Apply through [GitHub Campus Experts program website](https://education.github.com/experts) | [GitHub Campus Expert](https://education.github.com/experts)           |
+| HackerEarth Campus Ambassador               | For students passionate about programming, to start and run a programming club in their college.                  | Apply through [HackerEarth Campus Ambassador program website](https://www.hackerearth.com/campus-ambassador/) | [HackerEarth Campus Ambassador](https://www.hackerearth.com/campus-ambassador/) |
+| OnePlus Student Ambassador                  | Aims to form a fraternity of individuals who want to bring about a difference in the world through technology.      | Apply through [OnePlus Student Ambassador program website](https://www.oneplus.in/student-ambassador) | [OnePlus Student Ambassador](https://www.oneplus.in/student-ambassador)    |
+| TechGig Campus Ambassador                   | For students passionate about programming, interested in leading an active programming forum in their colleges.    | Apply through [TechGig Campus Ambassador program website](https://www.techgig.com/campus-ambassador)  | [TechGig Campus Ambassador](https://www.techgig.com/campus-ambassador) |
+
+## Student Chapters:
+
+| Chapter                                      | Brief Description                                                                                     | Leadership Opportunities                  | Contact Information                              |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------|
+| IEEE (Institute of Electrical and Electronics Engineers) | Networking, technical workshops, conferences                                                 | Executive positions, event coordinators | Contact IEEE chapter leaders or faculty advisors |
+| ACM (Association for Computing Machinery)              | Computing research, coding competitions, technical seminars                                    | Executive board positions, project leads | Contact ACM chapter leaders or faculty advisors  |
+| OWASP (Open Web Application Security Project)         | Web security awareness, training sessions, hackathons                                           | Chapter leaders, workshop coordinators  | Contact OWASP chapter leaders or faculty advisors |
+
+---
+
+### Additional Reading Material:
+[10 Campus Ambassador Programs You Can Apply For Right Now](https://buildwithmalik.medium.com/10-campus-ambassador-programs-you-can-apply-for-right-now-a76acc886653)
