@@ -9,20 +9,13 @@
 
 This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered!
 
+
 ## What You'll Find Here:
+
 - A curated list of Campus Ambassador Programs offered by various organizations.
 - Information on how to apply for each program, along with the benefits and responsibilities associated with it.
 - Details about different Student Chapters and Clubs available for students across various fields of interest.
 - Descriptions of each club's activities, leadership opportunities, and contact information.
-
-
-
-
-
-
-
-
-
 
 
 ## Campus Ambassador Programs:
@@ -30,17 +23,17 @@ This repository aims to serve as a comprehensive guide for college students aspi
 | Program                                      | Brief Description                                                                                                   | Website                                                             |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | Microsoft Student Ambassador                 | Represent Microsoft, organize events, promote products                                                            | [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/)   |
-| LinkedIn Student Learning Ambassador        | Represent LinkedIn Learning, organize workshops                                                                    | [LinkedIn Student Learning Ambassador](<https://www.linkedin.com/learning/instructors/become-a-student-ambassador>) |
+| LinkedIn Student Learning Ambassador        | Represent LinkedIn Learning, organize workshops                                                                    | [LinkedIn Student Learning Ambassador](<https://learning.linkedin.com/customer/linkedin-learning-champion-program>) |
 | Google Developer Group                      | Community building, organize events, promote Google tech                                                          | [Google Developer Group](https://developers.google.com/groups/)          |
 | Google Developer Student Club               | Community building, promote Google tech to students                                                                | [Google Developer Student Club](https://developers.google.com/community/dsc) |
 | Facebook Developer Circles                  | Foster developer communities, organize workshops                                                                   | [Facebook Developer Circles](https://developers.facebook.com/developercircles/) |
 | GitHub Campus Expert                       | Represent GitHub, organize workshops, foster Git education                                                        | [GitHub Campus Expert](https://education.github.com/experts)           |
 | GitKraken Ambassadors                       | Represent GitKraken, promote tools, organize events                                                                | [GitKraken Ambassadors](https://www.gitkraken.com/ambassadors)          |
 | AWS Education                                | Learn AWS technologies, organize events, promote cloud                                                            | [AWS Education](https://aws.amazon.com/education/)                    |
-| Auth0 Ambassador                            | Represent Auth0, promote IAM solutions, organize events                                                            | [Auth0 Ambassador](https://auth0.com/ambassadors/)                      |
+| Auth0 Ambassador                            | Represent Auth0, promote IAM solutions, organize events                                                            | [Auth0 Ambassador](https://auth0.com/ambassador-program)                      |
 | Hack Club                                    | Foster coding communities, organize hackathons                                                                    | [Hack Club](https://hackclub.com/)                                    |
 | Google Schools                               | Represent Google, organize events, promote products                                                               | [Google Schools](https://edu.google.com/schools-and-universities/)        |
-| MLH Coach                                   | Mentor hackathon participants, promote MLH events                                                                 | [MLH Coach](https://coach.mlh.io/)                                       |
+| MLH Coach                                   | Mentor hackathon participants, promote MLH events                                                                 | [MLH Coach](https://mlh.io/coaches)                                       |
 | HackerEarth Campus Ambassador               | For students passionate about programming, to start and run a programming club in their college.                  | [HackerEarth Campus Ambassador](https://www.hackerearth.com/campus-ambassador-program/) |
 | OnePlus Student Ambassador                  | Aims to form a fraternity of individuals who want to bring about a difference in the world through technology.      | [OnePlus Student Ambassador](https://www.oneplus.in/campus)    |
 | TechGig Campus Ambassador                   | For students passionate about programming, interested in leading an active programming forum in their colleges.    | [TechGig Campus Ambassador](https://www.techgig.com/campus-ambassador) |
