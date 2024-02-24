@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/network)
 [![GitHub stars](https://img.shields.io/github/stars/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Vikranth3140/Campus-Leadership-Opportunities.svg)](https://github.com/Vikranth3140/Campus-Leadership-Opportunities/blob/main/LICENSE)
 
 This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered!
 
