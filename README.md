@@ -1,4 +1,4 @@
-# Campus-Leadership-Opportunities
+# Campus Leadership Opportunities
 
 ![](https://img.shields.io/badge/%20-Campus%20Ambassador%20Programmes-blueviolet.svg) + ![](https://img.shields.io/badge/%20-Student%20Chapters-blueviolet.svg)
 
